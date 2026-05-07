@@ -1,48 +1,26 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Diing54.Diing54" />
+### Hi, I'm Diing
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chiman+Garang+Diing!;" />
-</h1>
+**Aspiring DevOps & Cloud Native Engineer | Command Line Inhabitant**
 
-<h3 align="center">A passionate software dev </h3>
+I am a Computer Science Graduate based in Nairobi. I spend most of my time working with Linux, Containers and AWS. I am in love with infrastructure engineering because there is always a deeper layer to understand, break, and fix.
 
-<br/>
+### What I`ve Built
 
-<div align="center">
- 
- 🔭 I’m currently working on **a house price prediction model**
- 
- 🌱 I’m currently learning **Advanced Neural Networks in AI**
+- **[Homelab](https://github.com/Diing54/homelab)**
+  A dedicated bare-metal sandbox built on several hardware to deploy self-hosted applications and services. It is secured behind Cloudflare Tunnels and currently managed via GitOps workflow.
 
-⚡ Fun fact **Reading Documentation first will save you hours**
+- **[DevLog: Full-Stack CI/CD Architecture](https://github.com/Diing54/devlog)**
+  A containerized activity tracker utilizing microservices architecture. It features an Nginx reverse proxy, PostgreSQL, Redis caching, and a fully automated GitHub Actions pipeline that builds and pushes multi-architecture images.
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:dgarang64@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+- **[Signify: Edge-AI Traffic Sign Recognition System](https://github.com/is-project-4th-year/signify-traffic-sign-recognition-system)**
+  A real-time, low-power assistive system that detects 76 different classes of traffic signs using a quantized YOLOv8n model running directly on a Sony IMX500 AI accelerator, completely freeing the Raspberry Pi host CPU.
 
-</div>
+### Current Focus
+After mastering containerization and networking, I am actively learning **AWS (Amazon Web Services)**. I am building a strong foundation in core cloud services (VPC, IAM, EC2, S3, RDS) and Infrastructure as Code using Terraform.
 
- <br/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,mysql," /><br>
-</div>
+### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Diing54&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Diing54&theme=blue-green&hide_border=false" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diing54&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="top langs" />
-</div>
-
+### 職人気質 (Shokunin Katagi) - The Artisan's Spirit
+> This is the deep dedication to mastering one's craft. A shokunin (artisan) doesn't just work for financial gain, but feels a social obligation to work their hardest and achieve excellence. It is about the quiet, persistent repetition of foundational skills, whether crafting physical goods or building systems from the ground up, until the tools you use feel like an extension of your own mind.

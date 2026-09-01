@@ -20,11 +20,11 @@ After mastering containerization and networking, I am actively learning **AWS (A
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Current State of My Homelab: 17 Containers](https://cloudiing.com/posts/current-state-of-my-homelab-17-containers/)
 - [Thinking About Podman &lpar;My Docker Daemon Crashed&rpar;](https://cloudiing.com/posts/thinking-about-podman-my-docker-daemon-crashed/)
 - [Scaling My Homelab](https://cloudiing.com/posts/scaling-my-homelab/)
 - [Dockerized My Blog Setup](https://cloudiing.com/posts/dockerized-my-blog-setup/)
 - [Stop Running Docker Containers as Root](https://cloudiing.com/posts/stop-running-docker-containers-as-root/)
-- [AI in Gaming Isn&#39;t Slop](https://cloudiing.com/posts/ai-in-gaming-isnt-slop/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 職人気質 (Shokunin Katagi) - The Artisan's Spirit

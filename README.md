@@ -16,7 +16,7 @@ I am a Computer Science Graduate based in Nairobi. I spend most of my time worki
   A real-time, low-power assistive system that detects 76 different classes of traffic signs using a quantized YOLOv8n model running directly on a Sony IMX500 AI accelerator, completely freeing the Raspberry Pi host CPU.
 
 ### Current Focus
-After mastering containerization and networking, I am actively learning **AWS (Amazon Web Services)**. I am building a strong foundation in core cloud services (VPC, IAM, EC2, S3, RDS) and Infrastructure as Code using Terraform.
+After mastering containerization and networking, I am actively learning **Kubernetes**. I am building a strong foundation in core Kubernetes resources and objects.
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,5 +27,5 @@ After mastering containerization and networking, I am actively learning **AWS (A
 - [Dockerized My Blog Setup](https://cloudiing.com/posts/dockerized-my-blog-setup/)
 <!-- BLOG-POST-LIST:END -->
 
-### 職人気質 (Shokunin Katagi) - The Artisan's Spirit
+### (Shokunin Katagi) - The Artisan's Spirit
 > This is the deep dedication to mastering one's craft. A shokunin (artisan) doesn't just work for financial gain, but feels a social obligation to work their hardest and achieve excellence. It is about the quiet, persistent repetition of foundational skills, whether crafting physical goods or building systems from the ground up, until the tools you use feel like an extension of your own mind.
